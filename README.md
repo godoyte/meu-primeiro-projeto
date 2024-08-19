@@ -1,15 +1,15 @@
 # meu-primeiro-projeto
 Repositorio usado durante as Videoaulas de git e github.
 
-small_blue_diamond: [Descrição do projeto].(#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto].(#descrição-do-projeto).
 
-small_blue_diamond: [Funcionalidades].(#funcionalidades)
+:small_blue_diamond: [Funcionalidades].(#funcionalidades).
 
-small_blue_diamond: [Deploy da Aplicação].(#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy da Aplicação].(#deploy-da-aplicação-dash).
 
-small_blue_diamond: [Pré-requisitos].(#pré-requisitos)
+:small_blue_diamond: [Pré-requisitos].(#pré-requisitos).
 
-small_blue_diamond: [Como rodar a aplicação].(#como-rodar-a-aplicaçao-arrow_forward)
+:small_blue_diamond: [Como rodar a aplicação].(#como-rodar-a-aplicaçao-arrow_forward).
 
 ## Descrição do projeto
 
@@ -33,9 +33,9 @@ Pré-requisitos
 ## Como rodar a aplicação ▶️
 
 No terminal, clone o projeto:
-'''
+```
 git clone https...
-'''
+```
 ## Casos de Uso
 
 ## Desenvolvedores/contribuintes
